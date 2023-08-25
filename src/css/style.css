@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+button{
+    border: 0px;
+}
+.upper_main{
+    width:  100%; 
+    height: 100vh;
+    background-image: url("../img/bg-masthead.jpg");
+   
+}
+
+.text_container{
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 200px;
+  color: white;
+  width: 40%;
+}
+
+.text_container h1{
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+
+.text_container h3{
+    color: rgb(175, 175, 175);
+}
+
+.text_container button{
+    background-color: #f4623a;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+    margin-top: 40px;
+}
+
+.orange_section{
+    width: 100%;
+    height: 100vh;
+    background-color: #f4623a;
+}
+
+.orange_section button{
+    background-color: white
+    ;
+    color: black;
+   
+}
+
+.download_section{
+    width: 100%;
+    height: 80vh;
+    background-color: black;
+}
+
+.download_section button{
+
+    background-color: white;
+    color: black;
+}
